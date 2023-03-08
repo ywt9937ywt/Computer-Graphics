@@ -7,3 +7,4 @@ Brief Introduction: I am a NYU Computer Engineering master student, currently do
 Our proposed project is interactive ML-driven terrain generator.
 I will continously update my research process.
 
+The code in folder 'Image Test' can read a .obj file and rasterize it. This is my first practice program.
