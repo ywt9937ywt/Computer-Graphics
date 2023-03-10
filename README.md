@@ -7,4 +7,10 @@ Brief Introduction: I am a NYU Computer Engineering master student, currently do
 Our proposed project is interactive ML-driven terrain generator.
 I will continously update my research process.
 
-The code in folder 'Image Test' can read a .obj file and rasterize it. This is my first practice program.
+The code in folder 'Image Test' can read a .obj file and rasterize it. This is my first c++ program done in my undergraduate.
+
+Noise generator is a c# script coded in Unity for terrain generation
+
+Flat shader is a unity project using shaders for simple lighting models, like blinn phong.
+
+
