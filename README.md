@@ -11,6 +11,6 @@ The code in folder 'Image Test' can read a .obj file and rasterize it. This is m
 
 Noise generator is a c# script coded in Unity for terrain generation
 
-Flat shader is a unity project using shaders for simple lighting models, like blinn phong.
+Unity shaders contains shaders for simple lighting models, like blinn phong and soft shadows.
 
 
