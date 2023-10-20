@@ -1,0 +1,26 @@
+﻿  rotate-cube-new.cpp
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(85,41): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(86,50): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(89,51): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(90,46): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(91,47): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(153,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(161,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(162,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(165,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(166,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(219,51): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(251,63): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(256,68): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(257,84): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(258,84): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(449,50): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(450,51): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(451,53): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(469,43): warning C4305: “参数”: 从“double”到“GLclampf”截断
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(652,42): warning C4244: “参数”: 从“int”转换到“const GLfloat”，可能丢失数据
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(652,70): warning C4244: “参数”: 从“int”转换到“const GLfloat”，可能丢失数据
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(682,57): warning C4244: “参数”: 从“int”转换到“const GLfloat”，可能丢失数据
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(682,85): warning C4244: “参数”: 从“int”转换到“const GLfloat”，可能丢失数据
+C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\rotate-cube-new.cpp(710,51): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Rotate_sphere.vcxproj -> C:\Users\10178\Desktop\study\CS6533\Rotate_sphere\Debug\Rotate_sphere.exe
